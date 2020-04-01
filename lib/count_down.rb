@@ -2,8 +2,7 @@
 
 var = 10 
 
-while var <= 10
-  break if var == 0
+while var >= 1
   puts var
   var -=
 end
